@@ -19,4 +19,6 @@ public class HazardSpinner : MonoBehaviour
             pivot.Rotate(Vector3.forward * speed);
         }
     }
+
+    //hey there!
 }
