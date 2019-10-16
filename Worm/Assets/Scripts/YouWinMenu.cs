@@ -35,4 +35,9 @@ public class YouWinMenu : MonoBehaviour
     {
         container.SetActive(true);
     }
+
+    public void Hide()
+    {
+        container.SetActive(false);
+    }
 }
